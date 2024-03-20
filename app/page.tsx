@@ -88,7 +88,7 @@ export default function Home() {
             >
               Instructions
             </h2>
-            <ol className='list-decimal marker:text-primary-nutmeg list-inside space-y-2'>
+            <ol className='list-decimal marker:text-primary-nutmeg list-outside space-y-2 px-4'>
               <li>
                 <b>Beat the eggs</b>: In a bowl, beat the eggs with a pinch of
                 salt and pepper until they are well mixed. You can add a
